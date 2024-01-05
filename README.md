@@ -22,9 +22,11 @@ Results of investors request:
 ![image](https://github.com/Lawrence-le/addressing_missing_data/assets/151991077/bf7b57ac-b9fd-4765-a469-b2fd3acebb4d)
 
 3. A list of the top 20 countries sorted by sum of company valuations in each country, excluding `United States`, `China`, `India`, and `United Kingdom`
+
 ![image](https://github.com/Lawrence-le/addressing_missing_data/assets/151991077/beef76ed-516a-463a-b4ac-f3d2ad872d69)
 
 
-4. A global valuation map of all countries except `United States`, `China`, `India`, and `United Kingdom`
+5. A global valuation map of all countries except `United States`, `China`, `India`, and `United Kingdom`
+
 ![image](https://github.com/Lawrence-le/addressing_missing_data/assets/151991077/2b0cdf63-76fd-420d-8581-7f1674218790)
 
